@@ -120,10 +120,10 @@
 Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058. Реклама.
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
 		<Price>8150000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>110000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>260000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA9S2018377/4d7c6ea32e2cd15238aeef4e4659f03a.jpg"/>
@@ -170,8 +170,8 @@
 		<WheelType>Левый</WheelType>
 		<VIN>JTJCPMJA9S2018377</VIN>
 		<ContactPhone>88469796868</ContactPhone>
-		<VideoURL/>
-		<VideoFileURL>&lt;![CDATA[https://photo.toyotasever.ru/video/JTJCPMJA9S2018377/bfaa7a7b0fa9bade65e5e5baef057d1b.mov]]&gt;</VideoFileURL>
+		<VideoURL>https://rutube.ru/video/5eef6ecb86b8a4eabadad4ab1f534c3c/</VideoURL>
+		<VideoFileURL>&lt;![CDATA[https://photo.toyotasever.ru/video/JTJCPMJA9S2018377/7f287568a5df1fdd61f6731952ab005a.mov]]&gt;</VideoFileURL>
 		<OfferSpecialLoanConditions/>
 		<OfferRepairGuarantee/>
 		<OfferGiftCasco/>

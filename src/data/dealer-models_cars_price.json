@@ -4,5 +4,17 @@
     "model": "RX 350",
     "price": 7990000,
     "benefit": 400000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Highlander",
+    "price": 5799000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Toyota",
+    "model": "RAV4",
+    "price": 4799000,
+    "benefit": 400000
   }
 ]

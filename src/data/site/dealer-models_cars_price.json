@@ -19,6 +19,12 @@
   },
   {
     "brand": "Toyota",
+    "model": "Camry",
+    "price": 4399000,
+    "benefit": 100000
+  },
+  {
+    "brand": "Toyota",
     "model": "Highlander",
     "price": 5249000,
     "benefit": 600000

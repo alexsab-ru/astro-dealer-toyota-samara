@@ -7,12 +7,6 @@
   },
   {
     "brand": "Lexus",
-    "model": "GX",
-    "price": 12490000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
     "model": "LX 600",
     "price": 17699000,
     "benefit": 400000

@@ -1,12 +1,6 @@
 [
   {
     "brand": "Lexus",
-    "model": "ES",
-    "price": 5690000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
     "model": "LX 600",
     "price": 17990000,
     "benefit": 200000

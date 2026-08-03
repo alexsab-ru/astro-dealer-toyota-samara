@@ -13,6 +13,12 @@
   },
   {
     "brand": "Toyota",
+    "model": "C-HR",
+    "price": 5599000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Toyota",
     "model": "Camry",
     "price": 4449000,
     "benefit": 400000

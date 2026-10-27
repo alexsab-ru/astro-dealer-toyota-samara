@@ -643,48 +643,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LFMJBFBF8T3013968</unique_id>
-      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>RAV4, VI (XA60)</folder_id>
-      <year>2026</year>
-      <vin>LFMJBFBF8T3013968</vin>
-      <price>4599000</price>
-      <sale_price>4199000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>400000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/0/full.webp?v=eb6d09d145dd</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/1/full.webp?v=4fbcd8430f9e</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/2/full.webp?v=bf6694e1d953</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/3/full.webp?v=df40548c6b3a</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/4/full.webp?v=3be538d0a6e4</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/5/full.webp?v=0d92c0d37b2a</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/6/full.webp?v=ed01ceea6c3f</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/7/full.webp?v=6534a206caf1</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/8/full.webp?v=17269813fe9b</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/9/full.webp?v=1a1d06d61e51</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/10/full.webp?v=2a8f1741396a</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/11/full.webp?v=92e1674b764a</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/12/full.webp?v=55381b2a61b8</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/13/full.webp?v=ef733346744c</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/14/full.webp?v=387edd105b9f</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/15/full.webp?v=ff32a249102a</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/16/full.webp?v=03141bdb1027</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/17/full.webp?v=13276eb1c380</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/18/full.webp?v=8b41b4ff2602</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/19/full.webp?v=5935b1b078ee</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/20/full.webp?v=7944625bc566</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/21/full.webp?v=80aa13b7a95b</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/22/full.webp?v=e0a9183c0904</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LVGBECEK3TG682001</unique_id>
       <url>https://toyota-samara.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-197-hp-premium-ice-cap-2026/</url>
       <mark_id>Toyota</mark_id>
@@ -1000,6 +958,11 @@
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/12/full.webp?v=fa490c0f3c35</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/13/full.webp?v=74c9eda27af0</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/14/full.webp?v=a2e0e18ccc01</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/15/full.webp?v=244168519a00</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/16/full.webp?v=4f2430f23744</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/17/full.webp?v=f79f7e7370cb</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/18/full.webp?v=a0c11ddb8e67</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/19/full.webp?v=8c53a1a290c7</image>
       </images>
     </car>
   </cars>

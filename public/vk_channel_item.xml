@@ -314,30 +314,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LFMJBFBF8T3013968</id>
-    <link>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</link>
-    <brand>Toyota</brand>
-    <model>RAV4, VI (XA60)</model>
-    <year>2026</year>
-    <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF8T3013968/0/full.webp?v=eb6d09d145dd</image_link>
-    <price>4599000 RUB</price>
-    <sale_price>4199000 RUB</sale_price>
-    <min_price>4199000 RUB</min_price>
-    <max_price>4599000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LFMJBFBF8T3013968</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LVGBECEK3TG682001</id>
     <link>https://toyota-samara.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-197-hp-premium-ice-cap-2026/</link>
     <brand>Toyota</brand>

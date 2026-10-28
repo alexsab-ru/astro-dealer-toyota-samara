@@ -9,10 +9,10 @@
     <year>2026</year>
     <title>Toyota Land Cruiser Prado, 250 Series VX-L + Панорама 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTEARCAJ3TK056439/0/full.webp?v=77429b81376c</image_link>
-    <price>12399000 RUB</price>
-    <sale_price>11999000 RUB</sale_price>
-    <min_price>11999000 RUB</min_price>
-    <max_price>12399000 RUB</max_price>
+    <price>12299000 RUB</price>
+    <sale_price>11899000 RUB</sale_price>
+    <min_price>11899000 RUB</min_price>
+    <max_price>12299000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L + Панорама, 2.8d AT (204 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Черный</exterior_color>
@@ -71,6 +71,30 @@
     <body_style>suv</body_style>
     <vin>JTJCHBJA302022536</vin>
     <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>JTJCMBHA7T2031567</id>
+    <link>https://toyota-samara.alexsab.ru/cars/lexus-rx-v-500h-24hyb-at-371-hp-4wd-f-sport-performance-plus-eminent-white-pearl-2026/</link>
+    <brand>Lexus</brand>
+    <model>RX, V</model>
+    <year>2026</year>
+    <title>Lexus RX, V F Sport Performance+ 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/0/full.webp?v=007c4df82669</image_link>
+    <price>14190000 RUB</price>
+    <sale_price>14190000 RUB</sale_price>
+    <min_price>14190000 RUB</min_price>
+    <max_price>14190000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Lexus RX, V, F Sport Performance+, 500h 2.4hyb AT (371 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTJCMBHA7T2031567</vin>
+    <availability>на заказ</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -262,54 +286,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LFMJBFBF1T3012094</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LFMJBFBF2T3005610</id>
-    <link>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</link>
-    <brand>Toyota</brand>
-    <model>RAV4, VI (XA60)</model>
-    <year>2026</year>
-    <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF2T3005610/0/full.webp?v=d4672a7d1616</image_link>
-    <price>4999000 RUB</price>
-    <sale_price>4599000 RUB</sale_price>
-    <min_price>4599000 RUB</min_price>
-    <max_price>4999000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LFMJBFBF2T3005610</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LFMJBFBF3T3011996</id>
-    <link>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</link>
-    <brand>Toyota</brand>
-    <model>RAV4, VI (XA60)</model>
-    <year>2026</year>
-    <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF3T3011996/0/full.webp?v=bfbf61f38a6c</image_link>
-    <price>4599000 RUB</price>
-    <sale_price>4199000 RUB</sale_price>
-    <min_price>4199000 RUB</min_price>
-    <max_price>4599000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LFMJBFBF3T3011996</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

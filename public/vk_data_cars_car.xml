@@ -173,6 +173,11 @@
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/7/full.webp?v=f5aa27c06457</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/8/full.webp?v=e8c6f5eedc13</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/9/full.webp?v=d11c82eabe8d</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/10/full.webp?v=f8323e28759f</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/11/full.webp?v=3a40bf9a83b9</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/12/full.webp?v=7956730b3955</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/13/full.webp?v=85ca07817a96</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/14/full.webp?v=b5893580dcdb</image>
       </images>
     </car>
     <car>
@@ -182,11 +187,11 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA1T2023400</vin>
-      <price>8090000</price>
-      <sale_price>7890000</sale_price>
+      <price>7949000</price>
+      <sale_price>7849000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>200000</max_benefit>
+      <max_benefit>100000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -280,11 +285,11 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA3T2024614</vin>
-      <price>8090000</price>
-      <sale_price>7890000</sale_price>
+      <price>7949000</price>
+      <sale_price>7849000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>200000</max_benefit>
+      <max_benefit>100000</max_benefit>
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -336,11 +341,11 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA4T2024380</vin>
-      <price>8090000</price>
-      <sale_price>7890000</sale_price>
+      <price>7949000</price>
+      <sale_price>7849000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>200000</max_benefit>
+      <max_benefit>100000</max_benefit>
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -388,11 +393,11 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA5T2026400</vin>
-      <price>8090000</price>
-      <sale_price>7890000</sale_price>
+      <price>7949000</price>
+      <sale_price>7849000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>200000</max_benefit>
+      <max_benefit>100000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -442,11 +447,11 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA8T2026455</vin>
-      <price>8090000</price>
-      <sale_price>7890000</sale_price>
+      <price>7949000</price>
+      <sale_price>7849000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>200000</max_benefit>
+      <max_benefit>100000</max_benefit>
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>

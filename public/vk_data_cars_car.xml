@@ -159,7 +159,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>0</max_benefit>
       <color>белый</color>
-      <availability>На заказ</availability>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Lexus RX, V, F Sport Performance+, 500h 2.4hyb AT (371 л.с.) 4WD, 2026 г., белый</description>
       <images>
@@ -178,6 +178,9 @@
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/12/full.webp?v=7956730b3955</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/13/full.webp?v=85ca07817a96</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/14/full.webp?v=b5893580dcdb</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/15/full.webp?v=f69fc7084142</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/16/full.webp?v=6b469d24e5c6</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/17/full.webp?v=d27f89e9d4c8</image>
       </images>
     </car>
     <car>
@@ -504,7 +507,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>200000</max_benefit>
       <color>черный</color>
-      <availability>На заказ</availability>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Lexus LX, IV, Luxury, 500d 3.4d AT (299 л.с.) 4WD, 2026 г., черный</description>
       <images>
@@ -544,50 +547,6 @@
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/33/full.webp?v=707be8d37313</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/34/full.webp?v=e0f62926296b</image>
         <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/35/full.webp?v=930e7745f362</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LFMJBFBF1T3012094</unique_id>
-      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>RAV4, VI (XA60)</folder_id>
-      <year>2026</year>
-      <vin>LFMJBFBF1T3012094</vin>
-      <price>4599000</price>
-      <sale_price>4199000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>400000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/0/full.webp?v=bfbf61f38a6c</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/1/full.webp?v=423d440c3f7f</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/2/full.webp?v=40bf26073391</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/3/full.webp?v=bbe19d97e552</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/4/full.webp?v=eeee7ab4c832</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/5/full.webp?v=67adced3a6f5</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/6/full.webp?v=0b2ab7251072</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/7/full.webp?v=6a67f92472ad</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/8/full.webp?v=29582da4e0fd</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/9/full.webp?v=948fc94549b2</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/10/full.webp?v=470cec25df9d</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/11/full.webp?v=61aab1cd7701</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/12/full.webp?v=b837dbb0d327</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/13/full.webp?v=4b290931f734</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/14/full.webp?v=0ba902a0e3ce</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/15/full.webp?v=9c614611b1ec</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/16/full.webp?v=ee39b475f51f</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/17/full.webp?v=83e9e934fecc</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/18/full.webp?v=b569502e1138</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/19/full.webp?v=005931fdad2f</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/20/full.webp?v=dbbc3b904ba3</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/21/full.webp?v=7d397c3aaf30</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/22/full.webp?v=5e296192dc22</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/23/full.webp?v=d44467c110fe</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3012094/24/full.webp?v=d2a06f49a1e3</image>
       </images>
     </car>
     <car>

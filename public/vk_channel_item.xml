@@ -74,13 +74,13 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>JTJCMBHA7T2031567</id>
+    <id>JTJCMBHA7T2023890</id>
     <link>https://toyota-samara.alexsab.ru/cars/lexus-rx-v-500h-24hyb-at-371-hp-4wd-f-sport-performance-plus-eminent-white-pearl-2026/</link>
     <brand>Lexus</brand>
     <model>RX, V</model>
     <year>2026</year>
     <title>Lexus RX, V F Sport Performance+ 2026</title>
-    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2031567/0/full.webp?v=007c4df82669</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/0/full.webp?v=007c4df82669</image_link>
     <price>14190000 RUB</price>
     <sale_price>14190000 RUB</sale_price>
     <min_price>14190000 RUB</min_price>
@@ -93,7 +93,7 @@
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
-    <vin>JTJCMBHA7T2031567</vin>
+    <vin>JTJCMBHA7T2023890</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

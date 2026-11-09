@@ -80,7 +80,7 @@
     <model>RX, V</model>
     <year>2026</year>
     <title>Lexus RX, V F Sport Performance+ 2026</title>
-    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/0/full.webp?v=007c4df82669</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/0/full.webp?v=e93456bae14e</image_link>
     <price>14190000 RUB</price>
     <sale_price>14190000 RUB</sale_price>
     <min_price>14190000 RUB</min_price>
@@ -262,6 +262,30 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>JTJPA7CX5T4098178</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>JTMAA7BJ8T4154386</id>
+    <link>https://toyota-samara.alexsab.ru/cars/toyota-land-cruiser-300-series-34d-at-309-hp-4wd-zx-5-seat-black-2026/</link>
+    <brand>Toyota</brand>
+    <model>Land Cruiser, 300 Series</model>
+    <year>2026</year>
+    <title>Toyota Land Cruiser, 300 Series ZX (5 мест) 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTMAA7BJ8T4154386/0/full.webp?v=75c1c7dfcd0a</image_link>
+    <price>16399000 RUB</price>
+    <sale_price>15999000 RUB</sale_price>
+    <min_price>15999000 RUB</min_price>
+    <max_price>16399000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Land Cruiser, 300 Series, ZX (5 мест), 3.4d AT (309 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTMAA7BJ8T4154386</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

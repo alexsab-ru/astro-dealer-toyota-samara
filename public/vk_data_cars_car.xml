@@ -86,6 +86,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA102023197/29/full.webp?v=32a39409ddbf</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA102023197/30/full.webp?v=338c849a7fe8</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA102023197/31/full.webp?v=d1a247c30efe</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA102023197/32/full.webp?v=edda95055316</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA102023197/33/full.webp?v=e2f99fc4815d</image>
       </images>
     </car>
     <car>
@@ -137,6 +139,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA302022536/29/full.webp?v=9baba73e1132</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA302022536/30/full.webp?v=d2f7cc2c2e39</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA302022536/31/full.webp?v=4446b322c900</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA302022536/32/full.webp?v=3e4bef2055cd</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCHBJA302022536/33/full.webp?v=aa63ac36b4f5</image>
       </images>
     </car>
     <car>
@@ -156,24 +160,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Lexus RX, V, F Sport Performance+, 500h 2.4hyb AT (371 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/0/full.webp?v=007c4df82669</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/1/full.webp?v=3bc71fb6f59d</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/2/full.webp?v=25f1358cc9eb</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/3/full.webp?v=ac8501212157</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/4/full.webp?v=d5c28dbb2388</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/5/full.webp?v=283722d6b5aa</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/6/full.webp?v=1f88edfc41ec</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/7/full.webp?v=f5aa27c06457</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/8/full.webp?v=e8c6f5eedc13</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/9/full.webp?v=d11c82eabe8d</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/10/full.webp?v=f8323e28759f</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/11/full.webp?v=3a40bf9a83b9</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/12/full.webp?v=7956730b3955</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/13/full.webp?v=85ca07817a96</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/14/full.webp?v=b5893580dcdb</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/15/full.webp?v=f69fc7084142</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/16/full.webp?v=6b469d24e5c6</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/17/full.webp?v=d27f89e9d4c8</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/0/full.webp?v=e93456bae14e</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/1/full.webp?v=eaa467a789ba</image>
       </images>
     </car>
     <car>
@@ -225,6 +213,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA1T2023400/29/full.webp?v=818613089a3d</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA1T2023400/30/full.webp?v=0b98c26fbad2</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA1T2023400/31/full.webp?v=b762e42bc615</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA1T2023400/32/full.webp?v=9a0a7db6d342</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA1T2023400/33/full.webp?v=3a3cb1df1f30</image>
       </images>
     </car>
     <car>
@@ -319,6 +309,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA3T2024614/29/full.webp?v=5a64962e58e7</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA3T2024614/30/full.webp?v=0df3da5dd18d</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA3T2024614/31/full.webp?v=545c74ebcacb</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA3T2024614/32/full.webp?v=bda5bbbaf8a4</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA3T2024614/33/full.webp?v=61672e0cb714</image>
       </images>
     </car>
     <car>
@@ -370,6 +362,7 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/29/full.webp?v=1b35efc7245f</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/30/full.webp?v=521d0fa93cb3</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/31/full.webp?v=a21231177d29</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/32/full.webp?v=9da0a2a7447b</image>
       </images>
     </car>
     <car>
@@ -421,6 +414,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/29/full.webp?v=a9ce9254392a</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/30/full.webp?v=dae6a4b005c2</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/31/full.webp?v=cfdde45495d0</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/32/full.webp?v=778288031c99</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/33/full.webp?v=18067e24c1ea</image>
       </images>
     </car>
     <car>
@@ -523,6 +518,29 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/29/full.webp?v=8cf1b3a68fca</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/30/full.webp?v=f4ebfeb6055c</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/31/full.webp?v=694a1bd7536c</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/32/full.webp?v=fc909f365531</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX5T4098178/33/full.webp?v=707be8d37313</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>JTMAA7BJ8T4154386</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-land-cruiser-300-series-34d-at-309-hp-4wd-zx-5-seat-black-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Land Cruiser, 300 Series</folder_id>
+      <year>2026</year>
+      <vin>JTMAA7BJ8T4154386</vin>
+      <price>16399000</price>
+      <sale_price>15999000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Land Cruiser, 300 Series, ZX (5 мест), 3.4d AT (309 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTMAA7BJ8T4154386/0/full.webp?v=75c1c7dfcd0a</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTMAA7BJ8T4154386/1/full.webp?v=db708a25e1d7</image>
       </images>
     </car>
     <car>

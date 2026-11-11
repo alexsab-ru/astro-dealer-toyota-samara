@@ -457,28 +457,4 @@
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
-  <item>
-    <id>LVGEU76AXTG065756</id>
-    <link>https://toyota-samara.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</link>
-    <brand>Toyota</brand>
-    <model>Highlander, IV (XU70)</model>
-    <year>2026</year>
-    <title>Toyota Highlander, IV (XU70) Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76AXTG065756/0/full.webp?v=85c956590b60</image_link>
-    <price>5899000 RUB</price>
-    <sale_price>5499000 RUB</sale_price>
-    <min_price>5499000 RUB</min_price>
-    <max_price>5899000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LVGEU76AXTG065756</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
 </channel>

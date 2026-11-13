@@ -290,30 +290,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LVGBECEK3TG682001</id>
-    <link>https://toyota-samara.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-197-hp-premium-ice-cap-2026/</link>
-    <brand>Toyota</brand>
-    <model>Camry, IX (XV80) China Market</model>
-    <year>2026</year>
-    <title>Toyota Camry, IX (XV80) China Market Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGBECEK3TG682001/0/full.webp?v=9240c8644eeb</image_link>
-    <price>4999000 RUB</price>
-    <sale_price>4599000 RUB</sale_price>
-    <min_price>4599000 RUB</min_price>
-    <max_price>4999000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Camry, IX (XV80) China Market, Premium, 2.0hyb CVT (197 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>sedan</body_style>
-    <vin>LVGBECEK3TG682001</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LVGBECEK3TG682208</id>
     <link>https://toyota-samara.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-197-hp-premium-underground-2026/</link>
     <brand>Toyota</brand>

@@ -183,6 +183,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/17/full.webp?v=593c92a40880</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/18/full.webp?v=e756efe4e459</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/19/full.webp?v=f10052c8484f</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/20/full.webp?v=7349677892cb</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/21/full.webp?v=2813e7ad09b7</image>
       </images>
     </car>
     <car>
@@ -464,6 +466,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/3/full.webp?v=3f232ae447a5</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/4/full.webp?v=9d599b0aec32</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/5/full.webp?v=377fd2ef9ccf</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/6/full.webp?v=5c941c5f4327</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/7/full.webp?v=e8badd1497db</image>
       </images>
     </car>
     <car>
@@ -564,6 +568,90 @@
       </images>
     </car>
     <car>
+      <unique_id>LFMJBFBF0T3016508</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF0T3016508</vin>
+      <price>4799000</price>
+      <sale_price>4399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/0/full.webp?v=eb6d09d145dd</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/1/full.webp?v=4fbcd8430f9e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF0T3016685</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF0T3016685</vin>
+      <price>4799000</price>
+      <sale_price>4399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/0/full.webp?v=eb6d09d145dd</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/1/full.webp?v=4fbcd8430f9e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF1T3016193</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF1T3016193</vin>
+      <price>4799000</price>
+      <sale_price>4399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/0/full.webp?v=bfbf61f38a6c</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/1/full.webp?v=423d440c3f7f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF1T3016243</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF1T3016243</vin>
+      <price>4799000</price>
+      <sale_price>4399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/0/full.webp?v=bfbf61f38a6c</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/1/full.webp?v=423d440c3f7f</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LVGBECEK3TG682208</unique_id>
       <url>https://toyota-samara.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-197-hp-premium-underground-2026/</url>
       <mark_id>Toyota</mark_id>
@@ -644,45 +732,6 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A3TG057546/18/full.webp?v=61cfe0ae326d</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A3TG057546/19/full.webp?v=2bd2cb963dcf</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A3TG057546/20/full.webp?v=0fe87a99b3b2</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LVGEU76A4TG059256</unique_id>
-      <url>https://toyota-samara.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>Highlander, IV (XU70)</folder_id>
-      <year>2026</year>
-      <vin>LVGEU76A4TG059256</vin>
-      <price>5899000</price>
-      <sale_price>5499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>400000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/0/full.webp?v=3505905c37de</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/1/full.webp?v=83837509b59e</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/2/full.webp?v=98c883709ab4</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/3/full.webp?v=2282c10e8d75</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/4/full.webp?v=dfaf153eff22</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/5/full.webp?v=192ccb2b59b1</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/6/full.webp?v=30c3f5f52286</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/7/full.webp?v=aa4da37bdee6</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/8/full.webp?v=82eac0737606</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/9/full.webp?v=8256020a33a7</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/10/full.webp?v=06c123969d76</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/11/full.webp?v=2e1a148615ef</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/12/full.webp?v=9ac9d7e2eb28</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/13/full.webp?v=4a19d31692ae</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/14/full.webp?v=76e782feb621</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/15/full.webp?v=e10f0908ff8c</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/16/full.webp?v=cceae0361b6a</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/17/full.webp?v=33c1e4217bf2</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/18/full.webp?v=e5b35225660a</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A4TG059256/19/full.webp?v=31f67e9df26c</image>
       </images>
     </car>
     <car>

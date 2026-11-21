@@ -197,6 +197,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/31/full.webp?v=faeddad441fa</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/32/full.webp?v=0c30c79bd4a7</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/33/full.webp?v=12d9bbcb4233</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/34/full.webp?v=dc80a35ee82f</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCMBHA7T2023890/35/full.webp?v=b0126b442bcd</image>
       </images>
     </car>
     <car>
@@ -436,6 +438,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/17/full.webp?v=1b948fd5cc06</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/18/full.webp?v=9ebc6b199b79</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/19/full.webp?v=ea914962f687</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/20/full.webp?v=feaeee46b4a1</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/21/full.webp?v=a5ac07165a44</image>
       </images>
     </car>
     <car>
@@ -463,6 +467,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/5/full.webp?v=b3b0379c7e15</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/6/full.webp?v=bc1148c22be6</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/7/full.webp?v=086764d0d5cf</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/8/full.webp?v=2f22d32898db</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/9/full.webp?v=e31d5c51bfd6</image>
       </images>
     </car>
     <car>
@@ -538,6 +544,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/11/full.webp?v=92e1674b764a</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/12/full.webp?v=55381b2a61b8</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/13/full.webp?v=ef733346744c</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/14/full.webp?v=387edd105b9f</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/15/full.webp?v=ff32a249102a</image>
       </images>
     </car>
     <car>
@@ -571,6 +579,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/11/full.webp?v=92e1674b764a</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/12/full.webp?v=55381b2a61b8</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/13/full.webp?v=ef733346744c</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/14/full.webp?v=387edd105b9f</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/15/full.webp?v=ff32a249102a</image>
       </images>
     </car>
     <car>
@@ -604,6 +614,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/11/full.webp?v=61aab1cd7701</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/12/full.webp?v=b837dbb0d327</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/13/full.webp?v=4b290931f734</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/14/full.webp?v=0ba902a0e3ce</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/15/full.webp?v=9c614611b1ec</image>
       </images>
     </car>
     <car>
@@ -637,6 +649,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/11/full.webp?v=61aab1cd7701</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/12/full.webp?v=b837dbb0d327</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/13/full.webp?v=4b290931f734</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/14/full.webp?v=0ba902a0e3ce</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/15/full.webp?v=9c614611b1ec</image>
       </images>
     </car>
     <car>
@@ -801,46 +815,6 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A6TG057539/18/full.webp?v=61cfe0ae326d</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A6TG057539/19/full.webp?v=2bd2cb963dcf</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A6TG057539/20/full.webp?v=0fe87a99b3b2</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LVGEU76A8TG057543</unique_id>
-      <url>https://toyota-samara.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-midnight-black-metallic-2026/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>Highlander, IV (XU70)</folder_id>
-      <year>2026</year>
-      <vin>LVGEU76A8TG057543</vin>
-      <price>5899000</price>
-      <sale_price>5499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>400000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/0/full.webp?v=e0d36d239703</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/1/full.webp?v=33391e343b10</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/2/full.webp?v=356cba30dca3</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/3/full.webp?v=39324626cdb5</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/4/full.webp?v=228ebf2df976</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/5/full.webp?v=b309db7668a7</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/6/full.webp?v=08ddaa658fa3</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/7/full.webp?v=e3d31361e467</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/8/full.webp?v=f40fe2104033</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/9/full.webp?v=89c8195ac113</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/10/full.webp?v=bb3494f54b36</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/11/full.webp?v=3aed0b04fb0c</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/12/full.webp?v=c84d04a45f01</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/13/full.webp?v=f6d1b57a964d</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/14/full.webp?v=2f88b82cb0c7</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/15/full.webp?v=232d3969dd57</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/16/full.webp?v=3e8d36f3070b</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/17/full.webp?v=40920081f38d</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/18/full.webp?v=61cfe0ae326d</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/19/full.webp?v=2bd2cb963dcf</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG057543/20/full.webp?v=0fe87a99b3b2</image>
       </images>
     </car>
   </cars>

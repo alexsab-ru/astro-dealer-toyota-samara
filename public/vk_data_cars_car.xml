@@ -447,6 +447,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/25/full.webp?v=24db4fbed949</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/26/full.webp?v=166a566ebd80</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/27/full.webp?v=a57021e1eea0</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/28/full.webp?v=54a15357dcdf</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/29/full.webp?v=818613089a3d</image>
       </images>
     </car>
     <car>
@@ -482,6 +484,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/13/full.webp?v=14296e6f208c</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/14/full.webp?v=a36ddda15a4e</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/15/full.webp?v=b6c575ffef04</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/16/full.webp?v=69a9831e6305</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/17/full.webp?v=f7525ba87ff2</image>
       </images>
     </car>
     <car>
@@ -565,6 +569,7 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/19/full.webp?v=5935b1b078ee</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/20/full.webp?v=7944625bc566</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/21/full.webp?v=80aa13b7a95b</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016508/22/full.webp?v=e0a9183c0904</image>
       </images>
     </car>
     <car>
@@ -606,6 +611,7 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/19/full.webp?v=5935b1b078ee</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/20/full.webp?v=7944625bc566</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/21/full.webp?v=80aa13b7a95b</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF0T3016685/22/full.webp?v=e0a9183c0904</image>
       </images>
     </car>
     <car>
@@ -647,6 +653,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/19/full.webp?v=005931fdad2f</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/20/full.webp?v=dbbc3b904ba3</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/21/full.webp?v=7d397c3aaf30</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/22/full.webp?v=5e296192dc22</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016193/23/full.webp?v=d44467c110fe</image>
       </images>
     </car>
     <car>
@@ -688,6 +696,92 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/19/full.webp?v=005931fdad2f</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/20/full.webp?v=dbbc3b904ba3</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/21/full.webp?v=7d397c3aaf30</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/22/full.webp?v=5e296192dc22</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF1T3016243/23/full.webp?v=d44467c110fe</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF4T3016138</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF4T3016138</vin>
+      <price>4799000</price>
+      <sale_price>4399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016138/0/full.webp?v=bfbf61f38a6c</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016138/1/full.webp?v=423d440c3f7f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF4T3016186</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF4T3016186</vin>
+      <price>4799000</price>
+      <sale_price>4399000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016186/0/full.webp?v=bfbf61f38a6c</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016186/1/full.webp?v=423d440c3f7f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF6T3016707</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF6T3016707</vin>
+      <price>4699000</price>
+      <sale_price>4299000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF6T3016707/0/full.webp?v=eb6d09d145dd</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF6T3016707/1/full.webp?v=4fbcd8430f9e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LFMJBFBF7T3016683</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF7T3016683</vin>
+      <price>4699000</price>
+      <sale_price>4299000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF7T3016683/0/full.webp?v=eb6d09d145dd</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF7T3016683/1/full.webp?v=4fbcd8430f9e</image>
       </images>
     </car>
     <car>

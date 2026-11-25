@@ -218,6 +218,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>JTJPA7CX4T4006911</id>
+    <link>https://toyota-samara.alexsab.ru/cars/lexus-lx-iv-500d-34d-at-299-hp-4wd-luxury-caviar-2026/</link>
+    <brand>Lexus</brand>
+    <model>LX, IV</model>
+    <year>2026</year>
+    <title>Lexus LX, IV Luxury 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX4T4006911/0/full.webp?v=f712523d7c87</image_link>
+    <price>18699000 RUB</price>
+    <sale_price>18299000 RUB</sale_price>
+    <min_price>18299000 RUB</min_price>
+    <max_price>18699000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Lexus LX, IV, Luxury, 500d 3.4d AT (299 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTJPA7CX4T4006911</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>JTJPA7CX7T4006904</id>
     <link>https://toyota-samara.alexsab.ru/cars/lexus-lx-iv-500d-34d-at-299-hp-4wd-luxury-caviar-2026/</link>
     <brand>Lexus</brand>

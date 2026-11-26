@@ -262,14 +262,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/0/full.webp?v=3f9f3ae1048f</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/1/full.webp?v=28ade8d485dc</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/2/full.webp?v=ea81c8b8fe8b</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/3/full.webp?v=798767779cc9</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/4/full.webp?v=f917ab82cb9f</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/5/full.webp?v=d656d4e3ed97</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/6/full.webp?v=4452771d5ce1</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/7/full.webp?v=6342af7abdea</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/0/full.webp?v=5cdd6e5b170d</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/1/full.webp?v=873a0732e24a</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/8/full.webp?v=2c587bd8d3a4</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/9/full.webp?v=3bcf567c906a</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA4T2024380/10/full.webp?v=1893150a5fc1</image>
@@ -314,14 +308,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/0/full.webp?v=c824a8c078cb</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/1/full.webp?v=68f604bae725</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/2/full.webp?v=993b6cde9cd5</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/3/full.webp?v=ff62cbd3c577</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/4/full.webp?v=be33f365e9a3</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/5/full.webp?v=b1fa5ff694d7</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/6/full.webp?v=11b23b2487a5</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/7/full.webp?v=f6f17c7aae14</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/0/full.webp?v=26112fd51910</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/1/full.webp?v=901c1e574d99</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/8/full.webp?v=bf153bd62c50</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/9/full.webp?v=284003fe5b99</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJA5T2026400/10/full.webp?v=b710c64c02c1</image>
@@ -368,14 +356,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/0/full.webp?v=43f629aead30</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/1/full.webp?v=1314af7ec8a8</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/2/full.webp?v=aaf5d5353dfa</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/3/full.webp?v=b353dcec8960</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/4/full.webp?v=f964488cf585</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/5/full.webp?v=5e65e37485c9</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/6/full.webp?v=7594c84c7e03</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/7/full.webp?v=e458c1f3daf5</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/0/full.webp?v=c35e95a789f3</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2031768/1/full.webp?v=3789dc89b25c</image>
       </images>
     </car>
     <car>
@@ -395,14 +377,8 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/0/full.webp?v=c8ed34035d6e</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/1/full.webp?v=60787b309d01</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/2/full.webp?v=9a46b223e5a4</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/3/full.webp?v=3f232ae447a5</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/4/full.webp?v=9d599b0aec32</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/5/full.webp?v=377fd2ef9ccf</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/6/full.webp?v=5c941c5f4327</image>
-        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/7/full.webp?v=e8badd1497db</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/0/full.webp?v=adb85f74ce01</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/1/full.webp?v=661522a5a241</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/8/full.webp?v=d06ab989e696</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/9/full.webp?v=13e0250f5716</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJCPMJAXT2032936/10/full.webp?v=77a87e67044e</image>
@@ -454,6 +430,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX4T4006911/1/full.webp?v=5bb64d4c9f32</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX4T4006911/2/full.webp?v=873539d6f689</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX4T4006911/3/full.webp?v=d1e799c9cbb5</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX4T4006911/4/full.webp?v=17715234dd29</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX4T4006911/5/full.webp?v=fd5e6b8c19c0</image>
       </images>
     </car>
     <car>
@@ -501,6 +479,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/25/full.webp?v=f103e0499855</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/26/full.webp?v=995dcad8fe48</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/27/full.webp?v=b1738eb58048</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/28/full.webp?v=cbb8f74fcd17</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/JTJPA7CX7T4006904/29/full.webp?v=8cf1b3a68fca</image>
       </images>
     </car>
     <car>
@@ -704,6 +684,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016138/9/full.webp?v=948fc94549b2</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016138/10/full.webp?v=470cec25df9d</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016138/11/full.webp?v=61aab1cd7701</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016138/12/full.webp?v=b837dbb0d327</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016138/13/full.webp?v=4b290931f734</image>
       </images>
     </car>
     <car>
@@ -735,6 +717,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016186/9/full.webp?v=948fc94549b2</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016186/10/full.webp?v=470cec25df9d</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016186/11/full.webp?v=61aab1cd7701</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016186/12/full.webp?v=b837dbb0d327</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF4T3016186/13/full.webp?v=4b290931f734</image>
       </images>
     </car>
     <car>
@@ -766,6 +750,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF6T3016707/9/full.webp?v=1a1d06d61e51</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF6T3016707/10/full.webp?v=2a8f1741396a</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF6T3016707/11/full.webp?v=92e1674b764a</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF6T3016707/12/full.webp?v=55381b2a61b8</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF6T3016707/13/full.webp?v=ef733346744c</image>
       </images>
     </car>
     <car>
@@ -797,6 +783,8 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF7T3016683/9/full.webp?v=1a1d06d61e51</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF7T3016683/10/full.webp?v=2a8f1741396a</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF7T3016683/11/full.webp?v=92e1674b764a</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF7T3016683/12/full.webp?v=55381b2a61b8</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LFMJBFBF7T3016683/13/full.webp?v=ef733346744c</image>
       </images>
     </car>
     <car>
@@ -883,6 +871,27 @@
       </images>
     </car>
     <car>
+      <unique_id>LVGEU76A3TG064562</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A3TG064562</vin>
+      <price>5899000</price>
+      <sale_price>5499000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A3TG064562/0/full.webp?v=3505905c37de</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A3TG064562/1/full.webp?v=83837509b59e</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LVGEU76A6TG057539</unique_id>
       <url>https://toyota-samara.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-midnight-black-metallic-2026/</url>
       <mark_id>Toyota</mark_id>
@@ -920,6 +929,48 @@
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A6TG057539/18/full.webp?v=61cfe0ae326d</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A6TG057539/19/full.webp?v=2bd2cb963dcf</image>
         <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A6TG057539/20/full.webp?v=0fe87a99b3b2</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVGEU76A7TG064211</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A7TG064211</vin>
+      <price>5899000</price>
+      <sale_price>5499000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A7TG064211/0/full.webp?v=85c956590b60</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A7TG064211/1/full.webp?v=d1fd71edd01d</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVGEU76A8TG064573</unique_id>
+      <url>https://toyota-samara.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Highlander, IV (XU70)</folder_id>
+      <year>2026</year>
+      <vin>LVGEU76A8TG064573</vin>
+      <price>5899000</price>
+      <sale_price>5499000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>400000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Highlander, IV (XU70), Premium, 2.0 AT (248 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG064573/0/full.webp?v=3505905c37de</image>
+        <image>https://img.upspace.ru/cars/toyota-samara.alexsab.ru/new/LVGEU76A8TG064573/1/full.webp?v=83837509b59e</image>
       </images>
     </car>
   </cars>
